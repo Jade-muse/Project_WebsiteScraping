@@ -4,5 +4,5 @@ api_access.py constitutes the python syntax created to request JSON files from t
 into a nested dictionary. When all requests and cleaning were completed, the dictionary was transformed into a pandas dataframe and saved as a csv file.
 Care was taken to respect the pagination terms and other requirements set forth by PokeAPI.
 
-pokemon_dex_data.csv constitutes the data obtained from the API and organized into a cohesive structure for analysis in the Data Aquisition Blog
+pokemon_dex_data.csv constitutes the data obtained from the API, organized into a cohesive structure for analysis in the Data Aquisition Blog
 assignment.
